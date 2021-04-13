@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="start">Начать</string>
+    <string name="task1">Задача 1</string>
+    <string name="task_date_1">21.05.2022</string>
+    <string name="task2">Задача 2</string>
+    <string name="task_date_2">22.05.2022</string>
+</resources>
